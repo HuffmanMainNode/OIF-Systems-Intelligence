@@ -1,0 +1,11 @@
+{
+  "host_id": "fixture.workstation-01",
+  "observed_at": "2026-01-01T10:00:00Z",
+  "operating_system": {"name": "ExampleOS", "version": "1.0"},
+  "hardware": {"cpu": "Example CPU", "memory_gib": 8},
+  "software": [
+    {"name": "editor", "version": "1.0"},
+    {"name": "terminal", "version": "1.0"}
+  ],
+  "fixture_notice": "Synthetic fictional inventory; not collected from a real host."
+}
