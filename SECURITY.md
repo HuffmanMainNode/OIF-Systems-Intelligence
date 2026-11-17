@@ -1,0 +1,1 @@
+Only process inventories from systems you own or are authorized to assess. This package reads supplied files and performs no remote discovery. Redact hostnames, usernames, paths, serial numbers, and sensitive software details before publication. Treat inventory files as untrusted. A package list is not proof of system security.
